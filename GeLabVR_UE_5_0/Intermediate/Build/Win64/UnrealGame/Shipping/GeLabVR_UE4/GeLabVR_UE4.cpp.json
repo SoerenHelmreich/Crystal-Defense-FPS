@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\daten\\projekte\\2022-gelab-vr\\gelabvr_ue_5_0\\source\\gelabvr_ue4\\gelabvr_ue4.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\daten\\projekte\\2022-gelab-vr\\gelabvr_ue_5_0\\intermediate\\build\\win64\\gelabvr_ue4\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\daten\\projekte\\2022-gelab-vr\\gelabvr_ue_5_0\\intermediate\\build\\win64\\unrealgame\\shipping\\gelabvr_ue4\\definitions.gelabvr_ue4.h",
+            "d:\\daten\\projekte\\2022-gelab-vr\\gelabvr_ue_5_0\\source\\gelabvr_ue4\\gelabvr_ue4.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

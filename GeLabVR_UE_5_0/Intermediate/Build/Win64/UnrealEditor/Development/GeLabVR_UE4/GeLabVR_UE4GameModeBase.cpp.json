@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "s:\\androiddevelopment\\portfolio\\crystaldefense\\gelabvr_ue_5_0\\source\\gelabvr_ue4\\gelabvr_ue4gamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "s:\\androiddevelopment\\portfolio\\crystaldefense\\gelabvr_ue_5_0\\intermediate\\build\\win64\\gelabvr_ue4editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "s:\\androiddevelopment\\portfolio\\crystaldefense\\gelabvr_ue_5_0\\intermediate\\build\\win64\\unrealeditor\\development\\gelabvr_ue4\\definitions.gelabvr_ue4.h",
+            "s:\\androiddevelopment\\portfolio\\crystaldefense\\gelabvr_ue_5_0\\source\\gelabvr_ue4\\gelabvr_ue4gamemodebase.h",
+            "e:\\unreal_engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\unreal_engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\unreal_engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "e:\\unreal_engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "s:\\androiddevelopment\\portfolio\\crystaldefense\\gelabvr_ue_5_0\\intermediate\\build\\win64\\unrealeditor\\inc\\gelabvr_ue4\\gelabvr_ue4gamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

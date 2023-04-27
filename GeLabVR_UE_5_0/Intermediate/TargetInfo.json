@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GeLabVR_UE4",
+			"Path": "D:\\Daten\\Projekte\\2022-gelab-vr\\GeLabVR_UE_5_0\\Source\\GeLabVR_UE4.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GeLabVR_UE4Editor",
+			"Path": "D:\\Daten\\Projekte\\2022-gelab-vr\\GeLabVR_UE_5_0\\Source\\GeLabVR_UE4Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
