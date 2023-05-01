@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"S:\\AndroidDevelopment\\Portfolio\\CrystalDefense\\GeLabVR_UE_5_0\\Source\\GeLabVR_UE4\\GeLabVR_UE4.Build.cs",
-		"S:\\AndroidDevelopment\\Portfolio\\CrystalDefense\\GeLabVR_UE_5_0\\Source\\GeLabVR_UE4.Target.cs",
-		"S:\\AndroidDevelopment\\Portfolio\\CrystalDefense\\GeLabVR_UE_5_0\\Source\\GeLabVR_UE4Editor.Target.cs"
+		"D:\\Daten\\Projekte\\Crystal-Defense-FPS\\GeLabVR_UE_5_0\\Source\\GeLabVR_UE4\\GeLabVR_UE4.Build.cs",
+		"D:\\Daten\\Projekte\\Crystal-Defense-FPS\\GeLabVR_UE_5_0\\Source\\GeLabVR_UE4.Target.cs",
+		"D:\\Daten\\Projekte\\Crystal-Defense-FPS\\GeLabVR_UE_5_0\\Source\\GeLabVR_UE4Editor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }
