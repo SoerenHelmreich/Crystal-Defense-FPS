@@ -1,17 +1,17 @@
 {
-    "Version": "1.2",
+    "Version": "1.1",
     "Data": {
-        "Source": "d:\\daten\\projekte\\crystal-defense-fps\\gelabvr_ue_5_0\\source\\gelabvr_ue4\\gelabvr_ue4gamemodebase.cpp",
+        "Source": "c:\\users\\elena\\documents\\projekte\\unreal projects\\crystal-defense-fps\\gelabvr_ue_5_0\\source\\gelabvr_ue4\\gelabvr_ue4gamemodebase.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\daten\\projekte\\crystal-defense-fps\\gelabvr_ue_5_0\\intermediate\\build\\win64\\gelabvr_ue4\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\elena\\documents\\projekte\\unreal projects\\crystal-defense-fps\\gelabvr_ue_5_0\\intermediate\\build\\win64\\gelabvr_ue4\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "d:\\daten\\projekte\\crystal-defense-fps\\gelabvr_ue_5_0\\intermediate\\build\\win64\\unrealgame\\shipping\\gelabvr_ue4\\definitions.gelabvr_ue4.h",
-            "d:\\daten\\projekte\\crystal-defense-fps\\gelabvr_ue_5_0\\source\\gelabvr_ue4\\gelabvr_ue4gamemodebase.h",
-            "d:\\programme\\epic\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
-            "d:\\programme\\epic\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
-            "d:\\programme\\epic\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\serverstatreplicator.generated.h",
-            "d:\\programme\\epic\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\gamemodebase.generated.h",
-            "d:\\daten\\projekte\\crystal-defense-fps\\gelabvr_ue_5_0\\intermediate\\build\\win64\\unrealgame\\inc\\gelabvr_ue4\\gelabvr_ue4gamemodebase.generated.h"
+            "c:\\users\\elena\\documents\\projekte\\unreal projects\\crystal-defense-fps\\gelabvr_ue_5_0\\intermediate\\build\\win64\\unrealgame\\shipping\\gelabvr_ue4\\definitions.gelabvr_ue4.h",
+            "c:\\users\\elena\\documents\\projekte\\unreal projects\\crystal-defense-fps\\gelabvr_ue_5_0\\source\\gelabvr_ue4\\gelabvr_ue4gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\elena\\documents\\projekte\\unreal projects\\crystal-defense-fps\\gelabvr_ue_5_0\\intermediate\\build\\win64\\unrealgame\\inc\\gelabvr_ue4\\gelabvr_ue4gamemodebase.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

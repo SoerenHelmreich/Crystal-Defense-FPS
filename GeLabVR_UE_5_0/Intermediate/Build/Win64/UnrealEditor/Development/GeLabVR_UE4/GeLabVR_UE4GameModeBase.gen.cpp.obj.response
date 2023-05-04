@@ -1,4 +1,4 @@
-S:\AndroidDevelopment\Portfolio\CrystalDefense\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealEditor\Inc\GeLabVR_UE4\GeLabVR_UE4GameModeBase.gen.cpp
+"C:\Users\elena\Documents\Projekte\Unreal Projects\Crystal-Defense-FPS\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealEditor\Inc\GeLabVR_UE4\GeLabVR_UE4GameModeBase.gen.cpp"
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
 /I Runtime
@@ -251,8 +251,8 @@ S:\AndroidDevelopment\Portfolio\CrystalDefense\GeLabVR_UE_5_0\Intermediate\Build
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
-/I S:\AndroidDevelopment\Portfolio\CrystalDefense\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealEditor\Inc\GeLabVR_UE4
-/I S:\AndroidDevelopment\Portfolio\CrystalDefense\GeLabVR_UE_5_0\Source
+/I "C:\Users\elena\Documents\Projekte\Unreal Projects\Crystal-Defense-FPS\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealEditor\Inc\GeLabVR_UE4"
+/I "C:\Users\elena\Documents\Projekte\Unreal Projects\Crystal-Defense-FPS\GeLabVR_UE_5_0\Source"
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MRMesh
@@ -271,18 +271,18 @@ S:\AndroidDevelopment\Portfolio\CrystalDefense\GeLabVR_UE_5_0\Intermediate\Build
 /I ThirdParty\PhysX3\PhysX_3.4\Include\common
 /I ThirdParty\PhysX3\PhysX_3.4\Include\extensions
 /I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
-/I E:\VisualStudio\VC\Tools\MSVC\14.31.31103\INCLUDE
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"S:\AndroidDevelopment\Portfolio\CrystalDefense\GeLabVR_UE_5_0\Intermediate\Build\Win64\GeLabVR_UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"S:\AndroidDevelopment\Portfolio\CrystalDefense\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealEditor\Development\GeLabVR_UE4\Definitions.GeLabVR_UE4.h"
-/Yu"S:\AndroidDevelopment\Portfolio\CrystalDefense\GeLabVR_UE_5_0\Intermediate\Build\Win64\GeLabVR_UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"S:\AndroidDevelopment\Portfolio\CrystalDefense\GeLabVR_UE_5_0\Intermediate\Build\Win64\GeLabVR_UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"S:\AndroidDevelopment\Portfolio\CrystalDefense\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealEditor\Development\GeLabVR_UE4\GeLabVR_UE4GameModeBase.gen.cpp.obj"
-/sourceDependencies S:\AndroidDevelopment\Portfolio\CrystalDefense\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealEditor\Development\GeLabVR_UE4\GeLabVR_UE4GameModeBase.gen.cpp.json
+/FI"C:\Users\elena\Documents\Projekte\Unreal Projects\Crystal-Defense-FPS\GeLabVR_UE_5_0\Intermediate\Build\Win64\GeLabVR_UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Users\elena\Documents\Projekte\Unreal Projects\Crystal-Defense-FPS\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealEditor\Development\GeLabVR_UE4\Definitions.GeLabVR_UE4.h"
+/Yu"C:\Users\elena\Documents\Projekte\Unreal Projects\Crystal-Defense-FPS\GeLabVR_UE_5_0\Intermediate\Build\Win64\GeLabVR_UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\elena\Documents\Projekte\Unreal Projects\Crystal-Defense-FPS\GeLabVR_UE_5_0\Intermediate\Build\Win64\GeLabVR_UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Users\elena\Documents\Projekte\Unreal Projects\Crystal-Defense-FPS\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealEditor\Development\GeLabVR_UE4\GeLabVR_UE4GameModeBase.gen.cpp.obj"
+/sourceDependencies "C:\Users\elena\Documents\Projekte\Unreal Projects\Crystal-Defense-FPS\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealEditor\Development\GeLabVR_UE4\GeLabVR_UE4GameModeBase.gen.cpp.json"
 /Zc:inline
 /nologo
 /Oi

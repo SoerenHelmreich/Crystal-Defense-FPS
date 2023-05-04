@@ -44,7 +44,7 @@
 #define UBT_COMPILED_PLATFORM Win64
 #define UBT_COMPILED_TARGET Game
 #define UE_APP_NAME "UnrealGame"
-#define UE_ENGINE_DIRECTORY "../../../../../../Programme/Epic/UE_5.0/Engine/"
+#define UE_ENGINE_DIRECTORY "../../../../../../../../../Program Files/Epic Games/UE_5.0/Engine/"
 #define NDIS_MINIPORT_MAJOR_VERSION 0
 #define WIN32 1
 #define _WIN32_WINNT 0x0601

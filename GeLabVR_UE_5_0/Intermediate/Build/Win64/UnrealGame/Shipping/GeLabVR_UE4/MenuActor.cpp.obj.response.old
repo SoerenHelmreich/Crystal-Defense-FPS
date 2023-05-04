@@ -1,4 +1,4 @@
-D:\Daten\Projekte\2022-gelab-vr\GeLabVR_UE_5_0\Source\GeLabVR_UE4\MenuActor.cpp
+D:\Daten\Projekte\Crystal-Defense-FPS\GeLabVR_UE_5_0\Source\GeLabVR_UE4\MenuActor.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\Engine
 /I Runtime
@@ -97,8 +97,8 @@ D:\Daten\Projekte\2022-gelab-vr\GeLabVR_UE_5_0\Source\GeLabVR_UE4\MenuActor.cpp
 /I Runtime\TypedElementFramework\Public
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\TypedElementRuntime
 /I Runtime\TypedElementRuntime\Public
-/I D:\Daten\Projekte\2022-gelab-vr\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealGame\Inc\GeLabVR_UE4
-/I D:\Daten\Projekte\2022-gelab-vr\GeLabVR_UE_5_0\Source
+/I D:\Daten\Projekte\Crystal-Defense-FPS\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealGame\Inc\GeLabVR_UE4
+/I D:\Daten\Projekte\Crystal-Defense-FPS\GeLabVR_UE_5_0\Source
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\NavigationSystem
 /I Runtime\NavigationSystem\Public
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\GeometryCollectionEngine
@@ -142,18 +142,18 @@ D:\Daten\Projekte\2022-gelab-vr\GeLabVR_UE_5_0\Source\GeLabVR_UE4\MenuActor.cpp
 /I ThirdParty\PhysX3\PhysX_3.4\Include\common
 /I ThirdParty\PhysX3\PhysX_3.4\Include\extensions
 /I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
-/I "D:\Programme\Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
+/I "D:\Programme\Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"D:\Daten\Projekte\2022-gelab-vr\GeLabVR_UE_5_0\Intermediate\Build\Win64\GeLabVR_UE4\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"D:\Daten\Projekte\2022-gelab-vr\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealGame\Shipping\GeLabVR_UE4\Definitions.GeLabVR_UE4.h"
-/Yu"D:\Daten\Projekte\2022-gelab-vr\GeLabVR_UE_5_0\Intermediate\Build\Win64\GeLabVR_UE4\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Daten\Projekte\2022-gelab-vr\GeLabVR_UE_5_0\Intermediate\Build\Win64\GeLabVR_UE4\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"D:\Daten\Projekte\2022-gelab-vr\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealGame\Shipping\GeLabVR_UE4\MenuActor.cpp.obj"
-/sourceDependencies D:\Daten\Projekte\2022-gelab-vr\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealGame\Shipping\GeLabVR_UE4\MenuActor.cpp.json
+/FI"D:\Daten\Projekte\Crystal-Defense-FPS\GeLabVR_UE_5_0\Intermediate\Build\Win64\GeLabVR_UE4\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"D:\Daten\Projekte\Crystal-Defense-FPS\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealGame\Shipping\GeLabVR_UE4\Definitions.GeLabVR_UE4.h"
+/Yu"D:\Daten\Projekte\Crystal-Defense-FPS\GeLabVR_UE_5_0\Intermediate\Build\Win64\GeLabVR_UE4\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\Daten\Projekte\Crystal-Defense-FPS\GeLabVR_UE_5_0\Intermediate\Build\Win64\GeLabVR_UE4\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"D:\Daten\Projekte\Crystal-Defense-FPS\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealGame\Shipping\GeLabVR_UE4\MenuActor.cpp.obj"
+/sourceDependencies D:\Daten\Projekte\Crystal-Defense-FPS\GeLabVR_UE_5_0\Intermediate\Build\Win64\UnrealGame\Shipping\GeLabVR_UE4\MenuActor.cpp.json
 /Zc:inline
 /nologo
 /Oi
